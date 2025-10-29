@@ -1,0 +1,230 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sarthak\\OneDrive\\Desktop\\SIG_2\\TechSpectra\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9C9BA0-3B00-B361-EF5D-8298265CE076}|Assembly-CSharp.csproj|C:\\Users\\Sarthak\\OneDrive\\Desktop\\SIG_2\\TechSpectra\\assets\\scripts\\objectspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA9C9BA0-3B00-B361-EF5D-8298265CE076}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objectspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9C9BA0-3B00-B361-EF5D-8298265CE076}|Assembly-CSharp.csproj|c:\\users\\sarthak\\onedrive\\desktop\\sig_2\\techspectra\\assets\\scripts\\gameovermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA9C9BA0-3B00-B361-EF5D-8298265CE076}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameovermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9C9BA0-3B00-B361-EF5D-8298265CE076}|Assembly-CSharp.csproj|C:\\Users\\Sarthak\\OneDrive\\Desktop\\SIG_2\\TechSpectra\\assets\\scripts\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA9C9BA0-3B00-B361-EF5D-8298265CE076}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9C9BA0-3B00-B361-EF5D-8298265CE076}|Assembly-CSharp.csproj|C:\\Users\\Sarthak\\OneDrive\\Desktop\\SIG_2\\TechSpectra\\assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA9C9BA0-3B00-B361-EF5D-8298265CE076}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9C9BA0-3B00-B361-EF5D-8298265CE076}|Assembly-CSharp.csproj|C:\\Users\\Sarthak\\OneDrive\\Desktop\\SIG_2\\TechSpectra\\assets\\scripts\\uihealthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA9C9BA0-3B00-B361-EF5D-8298265CE076}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uihealthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9C9BA0-3B00-B361-EF5D-8298265CE076}|Assembly-CSharp.csproj|C:\\Users\\Sarthak\\OneDrive\\Desktop\\SIG_2\\TechSpectra\\assets\\scripts\\healthtextui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA9C9BA0-3B00-B361-EF5D-8298265CE076}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\healthtextui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9C9BA0-3B00-B361-EF5D-8298265CE076}|Assembly-CSharp.csproj|C:\\Users\\Sarthak\\OneDrive\\Desktop\\SIG_2\\TechSpectra\\assets\\scripts\\medkit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA9C9BA0-3B00-B361-EF5D-8298265CE076}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\medkit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9C9BA0-3B00-B361-EF5D-8298265CE076}|Assembly-CSharp.csproj|C:\\Users\\Sarthak\\OneDrive\\Desktop\\SIG_2\\TechSpectra\\assets\\scripts\\bomb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA9C9BA0-3B00-B361-EF5D-8298265CE076}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bomb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9C9BA0-3B00-B361-EF5D-8298265CE076}|Assembly-CSharp.csproj|C:\\Users\\Sarthak\\OneDrive\\Desktop\\SIG_2\\TechSpectra\\assets\\scripts\\playershoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA9C9BA0-3B00-B361-EF5D-8298265CE076}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playershoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9C9BA0-3B00-B361-EF5D-8298265CE076}|Assembly-CSharp.csproj|C:\\Users\\Sarthak\\OneDrive\\Desktop\\SIG_2\\TechSpectra\\assets\\scripts\\targetbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA9C9BA0-3B00-B361-EF5D-8298265CE076}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\targetbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9C9BA0-3B00-B361-EF5D-8298265CE076}|Assembly-CSharp.csproj|C:\\Users\\Sarthak\\OneDrive\\Desktop\\SIG_2\\TechSpectra\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA9C9BA0-3B00-B361-EF5D-8298265CE076}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9C9BA0-3B00-B361-EF5D-8298265CE076}|Assembly-CSharp.csproj|C:\\Users\\Sarthak\\OneDrive\\Desktop\\SIG_2\\TechSpectra\\assets\\scripts\\scoreui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA9C9BA0-3B00-B361-EF5D-8298265CE076}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scoreui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9C9BA0-3B00-B361-EF5D-8298265CE076}|Assembly-CSharp.csproj|C:\\Users\\Sarthak\\OneDrive\\Desktop\\SIG_2\\TechSpectra\\assets\\scripts\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA9C9BA0-3B00-B361-EF5D-8298265CE076}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameOverManager.cs",
+              "DocumentMoniker": "C:\\Users\\Sarthak\\OneDrive\\Desktop\\SIG_2\\TechSpectra\\Assets\\Scripts\\GameOverManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameOverManager.cs",
+              "ToolTip": "C:\\Users\\Sarthak\\OneDrive\\Desktop\\SIG_2\\TechSpectra\\Assets\\Scripts\\GameOverManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameOverManager.cs",
+              "ViewState": "AgIAALUAAAAAAAAAAAAYwNgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T23:00:57.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HealthTextUI.cs",
+              "DocumentMoniker": "C:\\Users\\Sarthak\\OneDrive\\Desktop\\SIG_2\\TechSpectra\\Assets\\Scripts\\HealthTextUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthTextUI.cs",
+              "ToolTip": "C:\\Users\\Sarthak\\OneDrive\\Desktop\\SIG_2\\TechSpectra\\Assets\\Scripts\\HealthTextUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HealthTextUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T22:39:00.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UIHealthBar.cs",
+              "DocumentMoniker": "C:\\Users\\Sarthak\\OneDrive\\Desktop\\SIG_2\\TechSpectra\\Assets\\Scripts\\UIHealthBar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIHealthBar.cs",
+              "ToolTip": "C:\\Users\\Sarthak\\OneDrive\\Desktop\\SIG_2\\TechSpectra\\Assets\\Scripts\\UIHealthBar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIHealthBar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T15:28:26.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ScoreUI.cs",
+              "DocumentMoniker": "C:\\Users\\Sarthak\\OneDrive\\Desktop\\SIG_2\\TechSpectra\\Assets\\Scripts\\ScoreUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScoreUI.cs",
+              "ToolTip": "C:\\Users\\Sarthak\\OneDrive\\Desktop\\SIG_2\\TechSpectra\\Assets\\Scripts\\ScoreUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScoreUI.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwCAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T15:27:55.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Medkit.cs",
+              "DocumentMoniker": "C:\\Users\\Sarthak\\OneDrive\\Desktop\\SIG_2\\TechSpectra\\Assets\\Scripts\\Medkit.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Medkit.cs",
+              "ToolTip": "C:\\Users\\Sarthak\\OneDrive\\Desktop\\SIG_2\\TechSpectra\\Assets\\Scripts\\Medkit.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Medkit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T13:11:56.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bomb.cs",
+              "DocumentMoniker": "C:\\Users\\Sarthak\\OneDrive\\Desktop\\SIG_2\\TechSpectra\\Assets\\Scripts\\Bomb.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bomb.cs",
+              "ToolTip": "C:\\Users\\Sarthak\\OneDrive\\Desktop\\SIG_2\\TechSpectra\\Assets\\Scripts\\Bomb.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bomb.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA6wCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T13:10:51.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Fruit.cs",
+              "DocumentMoniker": "C:\\Users\\Sarthak\\OneDrive\\Desktop\\SIG_2\\TechSpectra\\Assets\\Scripts\\Fruit.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Fruit.cs",
+              "ToolTip": "C:\\Users\\Sarthak\\OneDrive\\Desktop\\SIG_2\\TechSpectra\\Assets\\Scripts\\Fruit.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Fruit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T13:07:57.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "C:\\Users\\Sarthak\\OneDrive\\Desktop\\SIG_2\\TechSpectra\\Assets\\Scripts\\PlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerHealth.cs",
+              "ToolTip": "C:\\Users\\Sarthak\\OneDrive\\Desktop\\SIG_2\\TechSpectra\\Assets\\Scripts\\PlayerHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerHealth.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAcwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T11:31:05.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ScoreManager.cs",
+              "DocumentMoniker": "C:\\Users\\Sarthak\\OneDrive\\Desktop\\SIG_2\\TechSpectra\\Assets\\Scripts\\ScoreManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScoreManager.cs",
+              "ToolTip": "C:\\Users\\Sarthak\\OneDrive\\Desktop\\SIG_2\\TechSpectra\\Assets\\Scripts\\ScoreManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScoreManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T11:29:43.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "playerShoot.cs",
+              "DocumentMoniker": "C:\\Users\\Sarthak\\OneDrive\\Desktop\\SIG_2\\TechSpectra\\Assets\\Scripts\\playerShoot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\playerShoot.cs",
+              "ToolTip": "C:\\Users\\Sarthak\\OneDrive\\Desktop\\SIG_2\\TechSpectra\\Assets\\Scripts\\playerShoot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\playerShoot.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAiwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T14:31:27.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TargetBox.cs",
+              "DocumentMoniker": "C:\\Users\\Sarthak\\OneDrive\\Desktop\\SIG_2\\TechSpectra\\Assets\\Scripts\\TargetBox.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TargetBox.cs",
+              "ToolTip": "C:\\Users\\Sarthak\\OneDrive\\Desktop\\SIG_2\\TechSpectra\\Assets\\Scripts\\TargetBox.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TargetBox.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T14:27:58.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ObjectSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\Sarthak\\OneDrive\\Desktop\\SIG_2\\TechSpectra\\Assets\\Scripts\\ObjectSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ObjectSpawner.cs",
+              "ToolTip": "C:\\Users\\Sarthak\\OneDrive\\Desktop\\SIG_2\\TechSpectra\\Assets\\Scripts\\ObjectSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ObjectSpawner.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAAAJcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T14:25:59.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "playerController.cs",
+              "DocumentMoniker": "C:\\Users\\Sarthak\\OneDrive\\Desktop\\SIG_2\\TechSpectra\\Assets\\Scripts\\playerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\playerController.cs",
+              "ToolTip": "C:\\Users\\Sarthak\\OneDrive\\Desktop\\SIG_2\\TechSpectra\\Assets\\Scripts\\playerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\playerController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAgwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T14:15:39.417Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
